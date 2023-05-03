@@ -29,7 +29,8 @@ export default defineConfig({
           {
             text: 'General',
             items: [
-              { text: 'Is this software developed by Microsoft?', link: '/general/is-this-software-developed-by-microsoft' }
+              { text: 'Is this software developed by Microsoft?', link: '/general/is-this-software-developed-by-microsoft' },
+              { text: 'Difference between versions', link: '/general/difference-between-versions' }
             ]
           }
         ],
@@ -65,7 +66,8 @@ export default defineConfig({
           {
             text: '全局性问题',
             items: [
-              { text: '这是微软官方开发的软件吗？', link: '/zh/general/is-this-software-developed-by-microsoft' }
+              { text: '这是微软官方开发的软件吗？', link: '/zh/general/is-this-software-developed-by-microsoft' },
+              { text: '版本差异', link: '/zh/general/difference-between-versions' }
             ]
           }
         ],
