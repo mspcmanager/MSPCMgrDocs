@@ -14,7 +14,14 @@ export default defineConfig({
         // https://vitepress.dev/reference/default-theme-config
         nav: [
           { text: 'Home', link: '/' },
-          { text: 'Official Website', link: 'https://pcmanager-en.microsoft.com/' }
+          { text: 'Official Website', link: 'https://pcmanager-en.microsoft.com/' },
+          {
+            text: 'Contacts',
+            items: [
+              { text: 'Discord', link: 'https://discord.com/invite/FTDTddsPgd' },
+              { text: 'More', link: 'https://forms.office.com/r/EPcrKfUbjK' }
+            ]
+          }
         ],
     
         sidebar: [
@@ -41,7 +48,15 @@ export default defineConfig({
         // https://vitepress.dev/reference/default-theme-config
         nav: [
           { text: '首页', link: '/zh/' },
-          { text: '官方网站', link: 'https://pcmanager.microsoft.com/' }
+          { text: '官方网站', link: 'https://pcmanager.microsoft.com/' },
+          {
+            text: '联系方式',
+            items: [
+              { text: '微信公众号', link: 'https://pcmanager-en.microsoft.com/assets/th.png' },
+              { text: '微博', link: 'https://weibo.com/mspcmanager' },
+              { text: '更多', link: 'https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR7Jc7yMooGtIh8-T51_PVotUNkZSWVJSQVo4SFZVUUtDSDVHRjA4MTFMWi4u'}
+            ]
+          }
         ],
     
         sidebar: [

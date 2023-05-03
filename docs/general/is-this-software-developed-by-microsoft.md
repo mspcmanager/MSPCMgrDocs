@@ -10,7 +10,7 @@ We understand your concern. We have a few ways to prove that Microsoft PC Manage
 
 2. Microsoft PC Manager's official website is [https://pcmanager-en.microsoft.com](https://pcmanager-en.microsoft.com), which is hosted on the official domain of Microsoft.
 
-3. You can verify the digital signature of the installer and the PCManager.exe. The digital signature *Microsoft Corporation* is issued by *Microsoft Code Signing PCA 2011*, which is a certificate authority operated by Microsoft.
+3. You can verify the digital signature of the installer and the MSPCManager.exe. The digital signature *Microsoft Corporation* is issued by *Microsoft Code Signing PCA 2011*, which is a certificate authority operated by Microsoft.
 
 ![A guide image that helps users verify its digital signature.](/assets/digital-signature.png)
 

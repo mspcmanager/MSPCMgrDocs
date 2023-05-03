@@ -10,7 +10,7 @@
 
 2. 微软电脑管家的官方网站是 [https://pcmanager.microsoft.com](https://pcmanager.microsoft.com)，它托管在微软的官方域名下。
 
-3. 您可以验证安装程序和 PCManager.exe 的数字签名。数字签名 *Microsoft Corporation* 是由 *Microsoft Code Signing PCA 2011* 颁发的，后者是微软运营的证书颁发机构。
+3. 您可以验证安装程序和 MSPCManager.exe 的数字签名。数字签名 *Microsoft Corporation* 是由 *Microsoft Code Signing PCA 2011* 颁发的，后者是微软运营的证书颁发机构。
 
 ![一个引导图片，帮助用户验证其数字签名。](/assets/digital-signature.png)
 
