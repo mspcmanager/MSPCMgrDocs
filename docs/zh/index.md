@@ -7,7 +7,7 @@ hero:
   text: "微软官方出品优化软件"
   tagline: Safeguard your PC in a quiet and reliable way
   image:
-    src: /assets/logo.png
+    src: https://s2.loli.net/2023/05/03/aO1r8lSRBK47yoj.png
     alt: 微软电脑管家图标
   actions:
     - theme: brand
