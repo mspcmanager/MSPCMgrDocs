@@ -12,6 +12,7 @@ export default defineConfig({
       description: "Safeguard your PC in a quiet and reliable way",
       themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
+        logo: '/assets/logo.png',
         nav: [
           { text: 'Home', link: '/' },
           { text: 'Official Website', link: 'https://pcmanager-en.microsoft.com/' },
@@ -46,6 +47,7 @@ export default defineConfig({
       description: "微软官方出品优化软件",
       themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
+        logo: '/assets/logo.png',
         nav: [
           { text: '首页', link: '/zh/' },
           { text: '官方网站', link: 'https://pcmanager.microsoft.com/' },

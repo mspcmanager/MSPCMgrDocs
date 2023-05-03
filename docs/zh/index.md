@@ -19,7 +19,7 @@ hero:
 
 features:
   - title: 一键加速
-    details: 清理系统碎片，释放占用资源，让你的Windows飞速如新。
+    details: 清理系统碎片，释放占用资源，让你的 Windows 飞速如新。
   - title: 系统空间管理
     details: 深度清理系统存储空间，管理大文件，开启磁盘感知，释放您的电脑存储空间。
   - title: 弹窗管理
