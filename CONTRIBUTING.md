@@ -1,4 +1,4 @@
-# Contributing to Microsoft Azure Documentation
+# Contributing to Microsoft PC Manager Documentation
 
 Thank you for taking the time to contribute to the Microsoft PC Manager documentation.
 
@@ -13,8 +13,6 @@ For more information, see the [Code of Conduct FAQ](https://opensource.microsoft
 ## How can I contribute?
 
 There are many ways to contribute to the documentation. Review the following sections to find out which one is right for you.
-
-### Reporting bugs and suggesting enhancements
 
 ### Editing in GitHub
 
