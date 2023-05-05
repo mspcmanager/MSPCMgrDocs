@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "微软电脑管家"
   text: "微软官方出品优化软件"
-  tagline: Safeguard your PC in a quiet and reliable way
+  tagline: 由社区贡献者维护的非官方文档
   image:
     src: https://s2.loli.net/2023/05/03/aO1r8lSRBK47yoj.png
     alt: 微软电脑管家图标
