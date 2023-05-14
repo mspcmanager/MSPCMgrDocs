@@ -2,6 +2,8 @@
 
 Microsoft PC Manager's unofficial documentation.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/53ca15ff-2cbb-450b-a22a-2b6d2cd5acbb/deploy-status)](https://app.netlify.com/sites/mspcmgr-docs/deploys)
+
 ------
 
 ## Getting Started

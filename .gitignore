@@ -1,8 +1,9 @@
 # Dependency directories
 node_modules/
 
-# vuepress build output
+# vuepress build & cache output
 docs/.vitepress/dist
+docs/.vitepress/cache
 
 # yarn v2
 .yarn/cache
