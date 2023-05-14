@@ -32,6 +32,12 @@ export default defineConfig({
               { text: 'Is this software developed by Microsoft?', link: '/general/is-this-software-developed-by-microsoft' },
               { text: 'Difference between versions', link: '/general/difference-between-versions' }
             ]
+          },
+          {
+            text: 'Legal',
+            items: [
+              { text: 'Microsoft Software License Terms (MS-SLT)', link: '/legal/ms-slt' }
+            ]
           }
         ],
     
@@ -68,6 +74,12 @@ export default defineConfig({
             items: [
               { text: '这是微软官方开发的软件吗？', link: '/zh/general/is-this-software-developed-by-microsoft' },
               { text: '版本差异', link: '/zh/general/difference-between-versions' }
+            ]
+          },
+          {
+            text: '法律',
+            items: [
+              { text: 'Microsoft 软件许可条款 (MS-SLT)', link: '/zh/legal/ms-slt' }
             ]
           }
         ],
