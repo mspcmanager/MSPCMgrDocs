@@ -19,7 +19,8 @@ export default defineConfig({
     root: {
       label: 'English',
       lang: 'en-US',
-      title: "Microsoft PC Manager Docs",
+      title: "Microsoft PC Manager",
+      titleTemplate: "Microsoft PC Manager Docs",
       description: "Safeguard your PC in a quiet and reliable way",
       themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
@@ -32,6 +33,13 @@ export default defineConfig({
             items: [
               { text: 'Discord', link: 'https://discord.com/invite/FTDTddsPgd' },
               { text: 'More', link: 'https://forms.office.com/r/EPcrKfUbjK' }
+            ]
+          },
+          {
+            text: 'Legal',
+            items: [
+              { text: 'Microsoft Software License Terms (MS-SLT)', link: '/legal/ms-slt' },
+              { text: 'Privacy', link: '/legal/privacy' }
             ]
           }
         ],
@@ -47,7 +55,8 @@ export default defineConfig({
           {
             text: 'Legal',
             items: [
-              { text: 'Microsoft Software License Terms (MS-SLT)', link: '/legal/ms-slt' }
+              { text: 'Microsoft Software License Terms (MS-SLT)', link: '/legal/ms-slt' },
+              { text: 'Privacy', link: '/legal/privacy' }
             ]
           }
         ],
@@ -76,6 +85,13 @@ export default defineConfig({
               { text: '微博', link: 'https://weibo.com/mspcmanager' },
               { text: '更多', link: 'https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR7Jc7yMooGtIh8-T51_PVotUNkZSWVJSQVo4SFZVUUtDSDVHRjA4MTFMWi4u'}
             ]
+          },
+          {
+            text: '法律',
+            items: [
+              { text: 'Microsoft 软件许可条款 (MS-SLT)', link: '/zh/legal/ms-slt' },
+              { text: '隐私', link: '/zh/legal/privacy' }
+            ]
           }
         ],
     
@@ -90,7 +106,8 @@ export default defineConfig({
           {
             text: '法律',
             items: [
-              { text: 'Microsoft 软件许可条款 (MS-SLT)', link: '/zh/legal/ms-slt' }
+              { text: 'Microsoft 软件许可条款 (MS-SLT)', link: '/zh/legal/ms-slt' },
+              { text: '隐私', link: '/zh/legal/privacy' }
             ]
           }
         ],
