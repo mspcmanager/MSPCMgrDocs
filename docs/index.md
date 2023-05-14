@@ -4,7 +4,6 @@ layout: home
 
 hero:
   name: "Microsoft PC Manager"
-  text: "Safeguard your PC in a quiet and reliable way"
   tagline: Unofficial docs maintained by the community contributors
   image:
     src: https://s2.loli.net/2023/05/03/aO1r8lSRBK47yoj.png
