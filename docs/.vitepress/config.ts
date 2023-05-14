@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   cleanUrls: true,
+  lastUpdated: true,
   lang: 'en-US',
   head: [
     // export logo
@@ -75,6 +76,9 @@ export default defineConfig({
       themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
         logo: 'https://s2.loli.net/2023/05/03/aO1r8lSRBK47yoj.png',
+        outlineTitle: '在此页中',
+        returnToTopLabel: '返回页首',
+        langMenuLabel: '切换语言',
         nav: [
           { text: '首页', link: '/zh/' },
           { text: '官方网站', link: 'https://pcmanager.microsoft.com/' },
