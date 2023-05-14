@@ -4,6 +4,17 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   cleanUrls: true,
   lang: 'en-US',
+  head: [
+    // export logo
+    [
+      'link',
+      {
+        rel: 'icon',
+        type: 'image/png',
+        href: 'https://s2.loli.net/2023/05/03/aO1r8lSRBK47yoj.png'
+      }
+    ]
+  ],
   locales: {
     root: {
       label: 'English',
