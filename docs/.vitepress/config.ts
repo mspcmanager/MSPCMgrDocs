@@ -68,10 +68,10 @@ export default defineConfig({
         ]
       }
     },
-    zh: {
+    'zh-hans': {
       label: '简体中文',
-      lang: 'zh-CN', // optional, will be added  as `lang` attribute on `html` tag
-      link: '/zh/',
+      lang: 'zh-Hans', // optional, will be added  as `lang` attribute on `html` tag
+      link: '/zh-hans/',
       title: "微软电脑管家文档",
       description: "微软官方出品优化软件",
       themeConfig: {
@@ -81,7 +81,7 @@ export default defineConfig({
         returnToTopLabel: '返回页首',
         langMenuLabel: '切换语言',
         nav: [
-          { text: '首页', link: '/zh/' },
+          { text: '首页', link: '/zh-hans/' },
           { text: '官方网站', link: 'https://pcmanager.microsoft.com/' },
           {
             text: '联系方式',
@@ -94,26 +94,26 @@ export default defineConfig({
           {
             text: '法律',
             items: [
-              { text: 'Microsoft 软件许可条款 (MS-SLT)', link: '/zh/legal/ms-slt' },
-              { text: '隐私', link: '/zh/legal/privacy' }
+              { text: 'Microsoft 软件许可条款 (MS-SLT)', link: '/zh-hans/legal/ms-slt' },
+              { text: '隐私', link: '/zh-hans/legal/privacy' }
             ]
           },
-          { text: '新闻', link: '/zh/news' }
+          { text: '新闻', link: '/zh-hans/news' }
         ],
     
         sidebar: [
           {
             text: '全局性问题',
             items: [
-              { text: '这是微软官方开发的软件吗？', link: '/zh/general/is-this-software-developed-by-microsoft' },
-              { text: '版本差异', link: '/zh/general/difference-between-versions' }
+              { text: '这是微软官方开发的软件吗？', link: '/zh-hans/general/is-this-software-developed-by-microsoft' },
+              { text: '版本差异', link: '/zh-hans/general/difference-between-versions' }
             ]
           },
           {
             text: '法律',
             items: [
-              { text: 'Microsoft 软件许可条款 (MS-SLT)', link: '/zh/legal/ms-slt' },
-              { text: '隐私', link: '/zh/legal/privacy' }
+              { text: 'Microsoft 软件许可条款 (MS-SLT)', link: '/zh-hans/legal/ms-slt' },
+              { text: '隐私', link: '/zh-hans/legal/privacy' }
             ]
           }
         ],

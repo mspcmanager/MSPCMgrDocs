@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: 🛟 全局性问题
-      link: /zh/general/is-this-software-developed-by-microsoft
+      link: /zh-hans/general/is-this-software-developed-by-microsoft
     - theme: alt
       text: ✈️ 立即下载
       link: https://aka.ms/PCManagerOFL30101
