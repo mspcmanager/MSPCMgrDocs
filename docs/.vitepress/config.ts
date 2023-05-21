@@ -42,7 +42,8 @@ export default defineConfig({
               { text: 'Microsoft Software License Terms (MS-SLT)', link: '/legal/ms-slt' },
               { text: 'Privacy', link: '/legal/privacy' }
             ]
-          }
+          },
+          { text: 'News', link: '/news' }
         ],
     
         sidebar: [
@@ -96,7 +97,8 @@ export default defineConfig({
               { text: 'Microsoft 软件许可条款 (MS-SLT)', link: '/zh/legal/ms-slt' },
               { text: '隐私', link: '/zh/legal/privacy' }
             ]
-          }
+          },
+          { text: '新闻', link: '/zh/news' }
         ],
     
         sidebar: [
