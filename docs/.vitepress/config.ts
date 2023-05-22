@@ -154,7 +154,7 @@ export default defineConfig({
               { text: '隱私權', link: '/zh-hant/legal/privacy' }
             ]
           },
-          { text: '新聞', link: '/zh-hans/news' }
+          { text: '新聞', link: '/zh-hant/news' }
         ],
 
         sidebar: [
