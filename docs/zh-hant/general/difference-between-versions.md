@@ -12,6 +12,6 @@
 
 :::
 
-但請放心，兩個版本都是*安全*的，並且符合 [Microsoft 隱私聲明](https://privacy.microsoft.com/zh-hant/privacystatement)中的承諾。
+但請放心，兩個版本都是*安全*的，並且符合 [Microsoft 隱私權聲明](https://privacy.microsoft.com/zh-hant/privacystatement)中的承諾。
 
 你可以從 [這裡](https://aka.ms/PCManagerOFL30101) 下載符合你當前地區政策的版本。
